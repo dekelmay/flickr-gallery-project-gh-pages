@@ -5,7 +5,6 @@ import React from 'react';
 import App from './App';
 
 class AppComponent extends React.Component {
-    
   render() {
     return (
       <div className="index">
